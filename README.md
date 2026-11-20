@@ -156,11 +156,22 @@ DTOs and projections are used to return the required data without exposing entit
 The `Screenshots` folder contains Postman evidence for:
 
 1. Successful product creation.
+<img width="977" height="691" alt="Screenshot 2026-11-20 222452" src="https://github.com/user-attachments/assets/0811dc0e-7b62-4d2c-9acb-943177fcb037" />
+
 2. Invalid input validation (400).
+<img width="967" height="742" alt="Screenshot 2026-11-20 222532" src="https://github.com/user-attachments/assets/287ef87a-3065-4af9-bca0-88d095ce1738" />
+
 3. Not Found response (404).
+<img width="991" height="741" alt="Screenshot 2026-11-20 222558" src="https://github.com/user-attachments/assets/2d9d2b87-6697-4791-b351-2395db16ca1c" />
+
 4. Conflict response (409).
+<img width="966" height="722" alt="Screenshot 2026-11-20 222630" src="https://github.com/user-attachments/assets/eb67808a-a5c8-490c-b535-c23c71fb0008" />
+
 5. Filtering and sorting.
+<img width="1165" height="796" alt="Screenshot 2026-11-20 222707" src="https://github.com/user-attachments/assets/a93349b2-2d6d-4350-bf5f-1f138c0697cb" />
+
 6. Pagination.
+<img width="1062" height="773" alt="Screenshot 2026-11-20 222900" src="https://github.com/user-attachments/assets/6bbb1f30-f9e2-4940-88fc-b792ffd28dc8" />
 
 ## Author
 
